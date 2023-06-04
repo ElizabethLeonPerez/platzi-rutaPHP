@@ -71,3 +71,19 @@ True o False
 ## Casting
 
 Es cuando forzamos que un tipo de dato se convierta en otro tipo de dato.
+
+## Operadores lógicos
+
+### Y (and) &&
+ 
+La unión de dos afimaciones mediante un operador (and).
+Si ambas son verdaderas la afirmación completa es verdadera.
+Si al menos una de las dos es falsa, la afirmación completa es falsa.
+
+### o (or) ||
+
+Verifica si almenos una de las afimaciones es cierta. 
+
+### No (not) !$valor
+
+se usa para invertir el estado de una afirmación

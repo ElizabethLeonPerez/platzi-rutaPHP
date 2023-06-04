@@ -2,7 +2,22 @@
 
 # Tipos de datos
 
-## Separar por tipo de datos!!
+## String
+/* $numero = "10";
+
+## Integer
+
+/* $numero = 10;
+/* $numero = "Viernes";
+
+## Booleano
+
+/* $numero = false;
+
+## Float
+/* $numero = 10.5;
+
+# Ejemplos
 
 /* $numero = "10";
 
