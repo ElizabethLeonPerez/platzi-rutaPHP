@@ -41,3 +41,10 @@ Si es php puro no es necesario.
 
 Cuando usas comillas dobles, php es capaz de leer cualquier variable que se ingrese dentro. 
 
+## Variables y constantes
+
+Una variable es un valor que puede cambiar aún después de declarado
+
+'$nombre = "Carlitos";'
+
+Una constante no puede ser modificada luego de declararse.
