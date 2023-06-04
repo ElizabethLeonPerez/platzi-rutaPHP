@@ -48,3 +48,26 @@ Una variable es un valor que puede cambiar aún después de declarado
 '$nombre = "Carlitos";'
 
 Una constante no puede ser modificada luego de declararse.
+
+## Tipos de datos
+
+#### Numericos: 
+* Integer: tipo de dato numerico sin decimales
+* FLoat: tipo de dato númerico con decimales
+* Double: tipo de datos numerico preciso (puede tener infinitas decimales)
+
+#### Cadenas de caracteres
+* Char: letra o simbolo
+* String: cadena de caracteres, es decir, es una cadena de muchos valores unidos
+
+#### Booleanos
+True o False
+
+#### Sin valor
+* Null: no hay valor 
+* Undefined: no hay valor especificado
+
+
+## Casting
+
+Es cuando forzamos que un tipo de dato se convierta en otro tipo de dato.
