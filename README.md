@@ -87,3 +87,29 @@ Verifica si almenos una de las afimaciones es cierta.
 ### No (not) !$valor
 
 se usa para invertir el estado de una afirmación
+
+
+Operadores Aritméticos
+Adición ⇒ +
+Sustracción ⇒ -
+Multiplicación ⇒ *
+División ⇒ /
+Modulo ⇒ % ⇒ Se usa para conocer el residuo de una división ⇒ $a % $b
+Potenciación ⇒ ** ⇒ $a ** $b
+Identidad ⇒ Sirve para convertir un string a un int o float, según sea el caso ⇒ + ⇒ +$a
+Negación ⇒ Convierte un numero positivo a negativo ⇒ -$a
+
+Son usados en PHP para la comparación entre valores
+
+Operador	Descripción
+==	Igual a
+===	Idéntico a
+!=	Diferente de
+<>	Diferente de
+!==	No idéntico a
+>	Mayor que
+>=	Mayor o igual que
+<	Menor que
+<=	Menor o igual que
+<=>	Nave espacial
+??	Fusión de null

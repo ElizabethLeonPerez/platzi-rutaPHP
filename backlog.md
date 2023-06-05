@@ -6,3 +6,6 @@ https://platzi.com/clases/2646-php/44440-tipos-de-datos/
 
 # Stop 3:
 https://platzi.com/clases/2646-php/44445-operadores-aritmeticos/
+
+# Stop 4:
+https://platzi.com/clases/2646-php/44448-precedencia-de-operadores/
