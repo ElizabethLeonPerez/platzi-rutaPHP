@@ -33,9 +33,9 @@ $numero = $numero + 0.5;
 
 var_dump($numero); */
 
-/* $papas = "10 papas en el costal";
+$papas = "10 papas en el costal";
 $cuantas_papas = $papas + 5;
 
-echo $cuantas_papas; */
+echo $cuantas_papas;
 
 ?>
